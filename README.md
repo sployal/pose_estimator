@@ -31,22 +31,6 @@ git clone https://github.com/sployal/pose_estimator
 cd pose_estimator
 ```
 
-## 🔍 Usage  
-
-### 1️⃣ Run Pose Estimation on an Image  
-```bash
-python pose_estimation.py --image test.jpg
-```
-
-### 2️⃣ Run Pose Estimation on a Webcam  
-```bash
-python pose_estimation.py --video 0
-```
-> Replace `0` with a video file path if using a pre-recorded video.
-
-## 🖼️ Example Illustration  
-
-![Pose Estimation Example](https://upload.wikimedia.org/wikipedia/commons/6/68/OpenPose.jpg)  
 
 ## 📌 TODO  
 
